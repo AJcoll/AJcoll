@@ -1,15 +1,15 @@
 # Hello! I'm Allan. 👋
 
-I'm a technologist fascinated by the "why" behind the "how." While many can build or fix technology, I thrive on understanding *why* people use it the way they do and how to make that experience better. [cite_start]This curiosity led me to pursue a Master's in Human-Computer Interaction from DePaul University, where I built a deep foundation in user-centric problem-solving, web architecture, and data analysis.
+I'm a technologist fascinated by the "why" behind the "how." While many can build or fix technology, I thrive on understanding *why* people use it the way they do and how to make that experience better. This curiosity led me to pursue a Master's in Human-Computer Interaction from DePaul University, where I built a deep foundation in user-centric problem-solving, web architecture, and data analysis.
 
-I've explored this intersection of people and technology from multiple angles. [cite_start]As a technical recruiter, I analyzed IT and engineering roles, learning firsthand what separates a good technical solution from a great one[cite: 18]. [cite_start]In my hands-on IT support role, I put theory into practice, delivering Tier-1 support [cite: 20][cite_start], deploying new hardware [cite: 21][cite_start], and improving network infrastructure [cite: 22][cite_start], ultimately reducing the need for external IT tickets by 30%. [cite_start]This passion extends beyond my professional life, with years of experience designing and building custom PCs from the ground up.
+I've explored this intersection of people and technology from multiple angles. As a technical recruiter, I analyzed IT and engineering roles, learning firsthand what separates a good technical solution from a great one. In my hands-on IT support role, I put theory into practice, delivering Tier-1 support, deploying new hardware, and improving network infrastructure, ultimately reducing the need for external IT tickets by 30%. This passion extends beyond my professional life, with years of experience designing and building custom PCs from the ground up.
 
 ---
 
 ## 🌱 I’m Currently Working On:
 
 * Building out my **IT Home Lab** to practice network administration, Active Directory, and offensive/defensive cybersecurity fundamentals.
-* [cite_start]Studying for my **CompTIA A+** (exam scheduled July 2025) and **Network+** (planned Q4 2025) certifications.
+* Studying for my **CompTIA A+** (exam scheduled July 2025) and **Network+** (planned Q4 2025) certifications.
 * Advancing my hands-on skills through the **Offensive Pentesting** path on **TryHackMe**.
 
 ---
