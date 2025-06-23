@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hello! I'm Allan. 👋
 
-<!--
-**AJcoll/AJcoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technologist fascinated by the "why" behind the "how." While many can build or fix technology, I thrive on understanding *why* people use it the way they do and how to make that experience better. [cite_start]This curiosity led me to pursue a Master's in Human-Computer Interaction from DePaul University, where I built a deep foundation in user-centric problem-solving, web architecture, and data analysis.
 
-Here are some ideas to get you started:
+I've explored this intersection of people and technology from multiple angles. [cite_start]As a technical recruiter, I analyzed IT and engineering roles, learning firsthand what separates a good technical solution from a great one[cite: 18]. [cite_start]In my hands-on IT support role, I put theory into practice, delivering Tier-1 support [cite: 20][cite_start], deploying new hardware [cite: 21][cite_start], and improving network infrastructure [cite: 22][cite_start], ultimately reducing the need for external IT tickets by 30%. [cite_start]This passion extends beyond my professional life, with years of experience designing and building custom PCs from the ground up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 I’m Currently Working On:
+
+* Building out my **IT Home Lab** to practice network administration, Active Directory, and offensive/defensive cybersecurity fundamentals.
+* [cite_start]Studying for my **CompTIA A+** (exam scheduled July 2025) and **Network+** (planned Q4 2025) certifications.
+* Advancing my hands-on skills through the **Offensive Pentesting** path on **TryHackMe**.
+
+---
+
+## 💻 Core Competencies
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>IT Support & Hardware</strong>
+      <ul>
+        <li>Technical Support</li>
+        <li>Hardware Troubleshooting</li>
+        <li>PC Assembly & Building</li>
+        <li>System Deployment & Imaging</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Networking & Systems</strong>
+      <ul>
+        <li>Network Administration</li>
+        <li>Active Directory</li>
+        <li>Windows Server</li>
+        <li>PowerShell & Bash Scripting</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Cybersecurity</strong>
+      <ul>
+        <li>Security Principles</li>
+        <li>Nmap & Wireshark</li>
+        <li>Vulnerability Assessment</li>
+        <li>TryHackMe</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Web & UX</strong>
+      <ul>
+        <li>HTML/CSS & JavaScript</li>
+        <li>React.js</li>
+        <li>UX/UI Design Principles</li>
+        <li>Technical Documentation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 How to Reach Me:
+
+[![My LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-collett/)
