@@ -1,8 +1,8 @@
-# Hello! I'm Allan. 👋
+# Hey there! I'm Allan 👋
 
 I'm a technologist fascinated by the "why" behind the "how." While many can build or fix technology, I thrive on understanding *why* people use it the way they do and how to make that experience better. This curiosity led me to pursue a Master's in Human-Computer Interaction from DePaul University, where I built a deep foundation in user-centric problem-solving, web architecture, and data analysis.
 
-I've explored this intersection of people and technology from multiple angles. As a technical recruiter, I analyzed IT and engineering roles, learning firsthand what separates a good technical solution from a great one. In my hands-on IT support role, I put theory into practice, delivering Tier-1 support, deploying new hardware, and improving network infrastructure, ultimately reducing the need for external IT tickets by 30%. This passion extends beyond my professional life, with years of experience designing and building custom PCs from the ground up.
+I've explored this intersection of people and technology from multiple angles. As a technical recruiter, I analyzed IT and engineering roles, learning firsthand what separates a good technical solution from a great one. In my hands-on IT support role I delivered Tier-1 support, deployed new hardware, and improved network infrastructure. This passion extends beyond my professional life, with years of experience designing and building custom PCs from the ground up.
 
 ---
 
