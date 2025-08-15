@@ -9,7 +9,7 @@ I've explored this intersection of people and technology from multiple angles. A
 ## 🌱 I’m Currently Working On:
 
 * Building out my **IT Home Lab** to practice network administration, Active Directory, and offensive/defensive cybersecurity fundamentals.
-* Studying for my **CompTIA A+** (exam scheduled July 2025) and **Network+** (planned Q4 2025) certifications.
+* Studying for my **CompTIA Network+** and **Security+** certifications.
 * Advancing my hands-on skills through the **Offensive Pentesting** path on **TryHackMe**.
 
 ---
